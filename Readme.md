@@ -32,9 +32,6 @@ microservice-testing/
 ├── Dockerfile # Docker setup for the Flask app
 └── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
